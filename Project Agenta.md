@@ -23,3 +23,5 @@
    4. Exception - all the exception of the machine learning pipeline
       - **init**.py- for python is used as an initializer (or constructor) for a class. Its primary purpose is to automatically set up an object's initial attributes and state when you create a new instance of that class
       - exception.py - will have the code for exception
+
+22.29
